@@ -30,7 +30,7 @@ Prova il progetto online su Hugging Face:
 ### 1. Clona la repository
 
 ```bash
-git clone https://github.com/tuo-username/rimozione-sfondo.git
+git clone https://github.com/Danzer-bit/RimuoviSfondoApp
 cd rimozione-sfondo
  ```
 
@@ -45,11 +45,6 @@ venv\Scripts\activate     # su Windows
 pip install -r requirements.txt
  ```
 
-Oppure installale manualmente:
-
-```bash
-pip install gradio rembg pillow
-```
 ### 3. Avvia l'app
 ```bash
 python app.py
@@ -67,12 +62,14 @@ Apri il browser su http://localhost:7860
 
 ## 📁 Struttura della cartella
 
+```text
 ├── gallery/             # immagini mostrate nella galleria, modificabili a piacere
 ├── outputs/             # immagini elaborate generate
-├── gitattributes        # codice principale dell'app
+├── .gitattributes       # configurazione EOL e linguist (opzionale)
 ├── app.py               # codice principale dell'app
 ├── requirements.txt     # dipendenze Python
 └── README.md            # questo file, da sostituire con file per Hugging Face
+```
 
 Non hai bisogno della cartella img di questa repo, usata solo per la preview di questa guida
 
