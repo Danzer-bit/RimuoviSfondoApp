@@ -30,7 +30,7 @@ Prova il progetto online su Hugging Face:
 ### 1. Clona la repository
 
 ```bash
-git clone https://github.com/Danzer-bit/RimuoviSfondoApp
+git clone https://github.com/Danzer-bit/RimuoviSfondoApp.git
 cd rimozione-sfondo
  ```
 
