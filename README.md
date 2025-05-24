@@ -29,27 +29,31 @@ Prova il progetto online su Hugging Face:
 
 ### 1. Clona la repository
 
+```bash
 git clone https://github.com/tuo-username/rimozione-sfondo.git
 cd rimozione-sfondo
+ ```
 
 ### 2. Installa le dipendenze
 
 Ti consigliamo di usare un ambiente virtuale:
-
+```bash
 python -m venv venv
 source venv/bin/activate  # su Linux/Mac
 venv\Scripts\activate     # su Windows
 
 pip install -r requirements.txt
+ ```
 
 Oppure installale manualmente:
 
+```bash
 pip install gradio rembg pillow
-
+```
 ### 3. Avvia l'app
-
+```bash
 python app.py
-
+```
 Apri il browser su http://localhost:7860
 
 ## 🚀 Host su Hugging Face Spaces
@@ -57,21 +61,20 @@ Apri il browser su http://localhost:7860
 1. Crea uno Space su Hugging Face Spaces (https://huggingface.co/spaces)
 2. Scegli il tipo Gradio
 3. Carica tutti i file della repo (inclusi app.py, gallery/, outputs/, ecc.)
-4. Crea un file requirements.txt con:
 
-gradio
-rembg
-pillow
 
 5. Lo Space si avvierà automaticamente (ci vorrà qualche minuto)
 
 ## 📁 Struttura della cartella
 
-├── app.py               # codice principale dell'app
-├── gallery/             # immagini mostrate nella galleria
+├── gallery/             # immagini mostrate nella galleria, modificabili a piacere
 ├── outputs/             # immagini elaborate generate
+├── gitattributes        # codice principale dell'app
+├── app.py               # codice principale dell'app
 ├── requirements.txt     # dipendenze Python
-└── README.md            # questo file
+└── README.md            # questo file, da sostituire con file per Hugging Face
+
+Non hai bisogno della cartella img di questa repo, usata solo per la preview di questa guida
 
 
 ## 📄 Licenza
