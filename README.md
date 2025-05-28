@@ -73,6 +73,22 @@ Apri il browser su http://localhost:7860
 
 Non hai bisogno della cartella img di questa repo, usata solo per la preview di questa guida
 
+## 🧑‍💻 Crediti
+
+Fox photo by <a href="https://unsplash.com/@rayhennessy?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ray Hennessy</a> on <a href="https://unsplash.com/photos/brown-fox-on-snow-field-xUUZcpQlqpM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
+
+Yellow Bird photo by <a href="https://unsplash.com/@hynesight?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jeremy Hynes</a> on <a href="https://unsplash.com/photos/a-yellow-bird-sitting-on-a-branch-of-a-tree-3Okh7LBdgvc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
+
+Gold Statue photo by <a href="https://unsplash.com/@etiennegirardet?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Etienne Girardet</a> on <a href="https://unsplash.com/photos/gold-statue-under-gray-sky-Nqi444i_6Z0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
+
+Statue of Liberty photo by <a href="https://unsplash.com/@gautamkrishnan?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Gautam Krishnan</a> on <a href="https://unsplash.com/photos/low-angle-photography-of-statue-of-liberty-piTwIwK7O98?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
+
+Fox Puppy photo by <a href="https://unsplash.com/@sunyu?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sunguk Kim</a> on <a href="https://unsplash.com/photos/selective-focus-photography-of-orange-fox-tIfrzHxhPYQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
 
 ## 📄 Licenza
 
